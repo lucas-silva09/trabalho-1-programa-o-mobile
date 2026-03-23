@@ -1,1 +1,1 @@
-# trabalho-1-programa-o-mobile
+# exercicio-1-mobile-lucas-silva
